@@ -11,7 +11,7 @@ Although water generation isn't completely random, 34 different types of water a
 The distance of clubs can be buffed or nerfed by golf course conditions such as wind.
 * A golf hole is 21 by 21 units wide however the length of the hole varies based upon the par of the hole.
 * Screenshot of Game
-> ![alt text](https://github.com/ajwitt212/GolfGame/blob/assets/Golf%20Game%20Screenshot.PNG)
+> ![alt text](https://github.com/ajwitt212/Golf-Game-Simulation/blob/assets/Golf%20Game%20Screenshot.PNG)
 ## Inspiration
 * To prepare for my introductory computer science final during the fall quarter of 2020 I designed a golf game project using classes. 
 However, when I finished the design I realized I wanted to build and implement the project. 
@@ -20,13 +20,13 @@ The idea of intertwining two of my passions in a single project encapsulated me 
 
 ## Implementation
 - Class Layout
-> ![alt text](https://github.com/ajwitt212/GolfGame/blob/assets/GolfGame-1.jpg.jpeg)
+> ![alt text](https://github.com/ajwitt212/Golf-Game-Simulation/blob/assets/Class%20Layout.jpeg)
 - Hole Layout
-> ![alt text](https://github.com/ajwitt212/GolfGame/blob/assets/GolfGame-2.jpg.jpeg)
+> ![alt text](https://github.com/ajwitt212/Golf-Game-Simulation/blob/assets/GolfHole%20Layout.jpeg)
 - 3-Row Water
-> ![alt text](https://github.com/ajwitt212/GolfGame/blob/assets/GolfGame-3.jpg.jpeg)
+> ![alt text](https://github.com/ajwitt212/Golf-Game-Simulation/blob/assets/Water3.jpeg)
 - 2-Row Water
-> ![alt text](https://github.com/ajwitt212/GolfGame/blob/assets/GolfGame-4.jpg.jpeg)
+> ![alt text](https://github.com/ajwitt212/Golf-Game-Simulation/blob/assets/Water2.jpeg)
 
 ## Challenges I ran into
 * Throughout the program many attributes are dependent on the generation of others. This created a chicken-and-egg problem. Choosing what to generate first required planning and testing.
