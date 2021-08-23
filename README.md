@@ -6,7 +6,7 @@
 Each player has a handicap that is compiled based upon the scores of their previous rounds. 
 * Once a player is created and selected the user plays through 3-hole rounds of golf. 
 * Each hole is randomly generated. Random factors include starting ball location, hole location, par, number of sandpits, and their locations. 
-Although water generation isn't completely random, 34 different types of water are randomly selected from when a hole is generated. 
+  34 different types of water are randomly selected from when a hole is generated. There are thus 1296 different combinations of water on a hole. 
 * The player has a set of 3 clubs: a driver, an iron, and a putter. The distances are six units, four units, and two units respectively. 
 The distance of clubs can be buffed or nerfed by golf course conditions such as wind.
 * A golf hole is 21 by 21 units wide however the length of the hole varies based upon the par of the hole.
